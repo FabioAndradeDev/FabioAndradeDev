@@ -1,4 +1,4 @@
-<!-- Banner -->
+
 <p align="center">
   <img src="https://github.com/FabioAndradeDev/FabioAndradeDev/blob/main/banner.png" alt="Banner do Perfil" />
 </p>
