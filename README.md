@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/FabioAndradeDev/FabioAndradeDev/blob/main/banner.png" alt="Banner do Perfil" />
+  <img src="https://github.com/FabioAndradeDev/FabioAndradeDev/blob/main/banner.png"  />
 </p>
 
 <h1 align="center">Olá, eu sou o Fabio Andrade 👨‍💻</h1>
