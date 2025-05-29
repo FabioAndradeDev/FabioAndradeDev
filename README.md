@@ -3,10 +3,10 @@
   <img src="https://github.com/FabioAndradeDev/FabioAndradeDev/blob/main/banner.png"  />
 </p>
 
-<h1 align="center">Olá, eu sou o Fabio Andrade 👨‍💻</h1>
+<h1 align="center">Olá, eu sou o Fabio👨‍💻</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack apaixonado por transformar ideias em soluções funcionais e escaláveis.
+  Desenvolvedor Full Stack.
 </p>
 
 <p align="center">
