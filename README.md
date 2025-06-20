@@ -21,7 +21,7 @@
 - 💡 Sempre buscando aprender novas linguagens e frameworks
 - 🔧 Trabalhando com APIs, banco de dados e desenvolvimento full stack
 - 🎯 Objetivo: crescer como desenvolvedor e contribuir com projetos reais
-- 📫 Entre em contato: fabioandradedev@gmail.com | [LinkedIn](https://www.linkedin.com/in/fabio-andrade-128114355/)
+- 📫 Entre em contato: fabioandradedev@gmail.com | +55 (11) 98799-6603
 
 ---
 
@@ -54,13 +54,6 @@
 - Angular e me aprofundadno em Spring Boot
 - Integração de APIs RESTful
 - MongoDB e MariaDB para diferentes tipos de projeto
-
----
-
-## 🌐 Onde me encontrar
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/fabio-andrade-128114355/)
-- 💻 [Meu GitHub](https://github.com/FabioAndradeDev)
 
 ---
 
