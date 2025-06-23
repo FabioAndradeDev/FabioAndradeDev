@@ -21,7 +21,7 @@
 - 💡 Sempre buscando aprender novas linguagens e frameworks
 - 🔧 Trabalhando com APIs, banco de dados e desenvolvimento full stack
 - 🎯 Objetivo: crescer como desenvolvedor e contribuir com projetos reais
-- 📫 Entre em contato: fabioandradedev@gmail.com | +55 (11) 98799-6603
+- 📫 Entre em contato: devfabiosa@gmail.com | +55 (11) 98799-6603
 
 ---
 
